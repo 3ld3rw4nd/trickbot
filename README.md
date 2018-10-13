@@ -1,4 +1,3 @@
 # trickbot
 
-Decrypts all the modules downlaoded by trickbot.
-This code is written in C langauge.
+Code written in C language, decrypts trickbot modules.
